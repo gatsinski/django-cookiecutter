@@ -11,6 +11,7 @@ flake8 = "*"
 black = "==21.8b0"
 coverage = "*"
 wily = "*"
+bandit = "*"
 
 [requires]
 python_version = "3.9"
