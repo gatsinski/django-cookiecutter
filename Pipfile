@@ -13,6 +13,7 @@ coverage = "*"
 wily = "*"
 bandit = "*"
 ipdb = "*"
+isort = "*"
 
 [requires]
 python_version = "3.9"
