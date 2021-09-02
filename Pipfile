@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "==3.2.*"
+django-split-settings = "==1.1.*"
 
 [dev-packages]
 flake8 = "*"
