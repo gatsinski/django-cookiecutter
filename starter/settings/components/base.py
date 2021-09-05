@@ -23,6 +23,7 @@ BASE_DIR = PROJECT_PATH.parent
 INSTALLED_APPS = [
     # Third party apps
     "django_extensions",
+    "debug_toolbar",
     # Django Apps
     "django.contrib.admin",
     "django.contrib.auth",
