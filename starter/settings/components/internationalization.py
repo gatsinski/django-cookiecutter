@@ -3,6 +3,8 @@
 
 LANGUAGE_CODE = "en-us"
 
+LANGUAGES = [("en-us", "English"), ("bg-bg", "Български")]
+
 TIME_ZONE = "UTC"
 
 USE_I18N = True
